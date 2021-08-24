@@ -1,0 +1,8 @@
+com/example/counter/MainActivity.java
+ com.example.counter.MainActivity
+ com.example.counter.MainActivity$1
+ com.example.counter.MainActivity$2
+ com.example.counter.MainActivity$3
+ com.example.counter.MainActivity$4
+com/example/counter/BuildConfig.java
+ com.example.counter.BuildConfig
