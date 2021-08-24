@@ -6,5 +6,5 @@ The STOP button stops the counter
 The CLEAR button clears the counter to zero
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="400" height="600" src="images/light.jpeg">
 </p>
